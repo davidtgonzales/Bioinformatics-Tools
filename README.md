@@ -1,5 +1,5 @@
 # Bioinformatics-Tools
-A collection of python scripts for various DNA sequence editing and data parsing. The scripts included are listed below. To get instructions for each script, type 'python program_name.py -h'.
+A collection of python scripts for various DNA sequence editing and data parsing. The scripts included are listed below. To get instructions from each script, type 'python program_name.py -h'.
 
 blast_xml_parser.py
 dna_code.py
