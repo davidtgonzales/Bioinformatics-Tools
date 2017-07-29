@@ -21,4 +21,4 @@ hmm_extract.py
 
 
 David Gonzales
-davidtgonzales@gmail.com
+https://github.com/davidtgonzales
